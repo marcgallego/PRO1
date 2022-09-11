@@ -52,7 +52,7 @@
     <br>
 - Caràcters (`char`)
     - [Taula ASCII](https://en.cppreference.com/w/cpp/language/ascii)
-    - Operacions amb caràcters (`'a' + 1 == 'b'`)
+    - Operacions amb caràcters (`char('a' + 1) == 'b'`)
 
     <br>
 - Prioritat d'operacions
