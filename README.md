@@ -16,6 +16,7 @@
     - Editors de codi
     - Compilador de C++
     - `g++ -Wall -O2 -std=c++17 program.cc -o program.exe`
+    - A classe, millor usar `p1++`
     - Altres consells (mida de font alta)
     
     <br>
@@ -52,7 +53,7 @@
     <br>
 - Caràcters (`char`)
     - [Taula ASCII](https://en.cppreference.com/w/cpp/language/ascii)
-    - Operacions amb caràcters (`char('a' + 1) == 'b'`)
+    - Operacions amb caràcters (`cout << char('a' + 1); // imprimeix 'b'`)
 
     <br>
 - Prioritat d'operacions
@@ -62,6 +63,6 @@
 
     <br>
 - Altres temes
-    - Comentaris (`//...`, `/* ... */`)
+    - Comentaris (`// ...`, `/* ... */`)
     - Indentació (4 espais)
     - [LinuxUPC install party (21 de setembre d'11 a 17 h a l’aula A5102)](https://www.fib.upc.edu/ca/noticies/linux-install-party-2022)
