@@ -64,4 +64,4 @@
 - Altres temes
     - Comentaris (`//...`, `/* ... */`)
     - Indentació (4 espais)
-    - LinuxUPC install party
+    - [LinuxUPC install party (21 de setembre d'11 a 17 h a l’aula A5102)](https://www.fib.upc.edu/ca/noticies/linux-install-party-2022)
