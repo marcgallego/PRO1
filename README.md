@@ -1,5 +1,37 @@
 # Laboratori de PRO1
 
+## Sessió 2
+
+- Particularitat de l'operador `and`
+
+  ```cpp
+  int x = 0;
+  if (x != 0 and 1/x < LIMIT) { // funciona!
+      ...
+  }
+  ```
+  Com `x != 0` avalua `false`, el C++ s'estalvia d'avaluar la segona part!
+
+  <br>
+- Algunes normes
+  - Mai dividireu entre 0!
+  - Mai consultareu una variable no inicialitzada!
+  - Visibilitat de variables
+  - [Totes les normes per a la primera part del curs](https://pro1.cs.upc.edu/data/uploads/normes/normes-c1.pdf)
+
+  <br>
+- Condicionals
+  - `if`, `else`, `else if`
+
+  <br>
+- Strings
+  - Feu `#include <string>` per a usar-los
+  - Hi podeu fer operacions de comparació (com `<`, `>`, `==`...)
+
+  <br>
+- Bucles `while`
+
+
 ## Sessió 1
 - Programes i algorismes
 
