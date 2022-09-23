@@ -1,5 +1,23 @@
 # Laboratori de PRO1
 
+## Sessió 3
+
+- Més `while`!
+- Bucles `for`
+- Lectura i tractament de seqüències d'entrada
+- Imprimir decimals:
+
+  ```cpp
+  cout.setf(ios::fixed);
+  cout.precision(4);
+  ```
+- Número Pi:
+
+  ```cpp
+  #include <cmath>
+  // ara podeu usar "M_PI"
+  ```
+
 ## Sessió 2
 
 - Particularitat de l'operador `and`
