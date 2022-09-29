@@ -10,6 +10,7 @@
   ```cpp
   cout.setf(ios::fixed);
   cout.precision(4);
+  // els doubles s'imprimiran amb 4 decimals rere el punt (per exemple, 23.2000)
   ```
 - Número Pi:
 
