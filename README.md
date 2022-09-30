@@ -1,5 +1,13 @@
 # Laboratori de PRO1
 
+## Sessió 4
+
+- Bucles avançats
+- Bucles dins bucles
+- Repàs de visibilitat de variables
+- Revisió de codis!
+
+
 ## Sessió 3
 
 - Més `while`!
