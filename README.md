@@ -1,5 +1,18 @@
 # Laboratori de PRO1
 
+## Sessió 6
+
+- Consolidació
+- Seqüències avançades
+    - Finestres
+    - Seqüència de seqüències
+
+## Sessió 5
+
+- Tractament de seqüències
+    - Recorreguts
+    - Cerques
+
 ## Sessió 4
 
 - Bucles avançats
