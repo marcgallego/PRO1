@@ -1,5 +1,31 @@
 # Laboratori de PRO1
 
+
+
+## Sessió 10
+
+- Vectors
+    - Cerca dicotòmica
+    - Fusió de vectors ordenats
+    - Ús de `sort`, de la llibreria `algorithm` del C++
+
+## Sessió 9
+
+- Vectors
+    - Vectors com a paràmetres (pas per referència i per referència constant)
+    - Recorreguts i cerques líneals
+    - Tractament d'strings com a vectors
+
+## Sessió 8
+
+- Recursivitat
+
+## Sessió 7
+
+- Funcions
+    - Pas de paràmetres: per valor/per referència
+    - Com fer codi modular?
+
 ## Sessió 6
 
 - Consolidació
